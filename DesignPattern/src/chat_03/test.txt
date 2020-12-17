@@ -1,0 +1,2 @@
+I Know the Decorator Pattern therefore I RULE!
+나는 데코레이터 패턴을 알고 있기 때문에 규칙적으로 행동한다!
