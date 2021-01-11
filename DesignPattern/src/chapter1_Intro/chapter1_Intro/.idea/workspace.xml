@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c92c58b-5381-4d1c-9129-5fcb0f237521" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="ProjectId" id="1km5jPlu0OZ4fLFXCXbwInFFjYn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/study/design_pattern/step3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/study/design_pattern/step3" />
+      <recent name="$PROJECT_DIR$/src/com/study/design_pattern/step2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.design_pattern.step1.Main" />
+      <module name="chapter1_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.design_pattern.step1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.design_pattern.step2.Main" />
+      <module name="chapter1_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.design_pattern.step2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.design_pattern.step3.Main" />
+      <module name="chapter1_Intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.design_pattern.step3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.design_pattern.Main" />
+      <module name="chapter1_Intro" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c92c58b-5381-4d1c-9129-5fcb0f237521" name="Default Changelist" comment="" />
+      <created>1606293060701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606293060701</updated>
+      <workItem from="1606293065978" duration="3834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606293507224">
+      <screen x="59" y="25" width="1733" height="1095" />
+    </state>
+    <state x="59" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.25.1733.1095@59.25.1733.1095" timestamp="1606293507224" />
+    <state x="1858" y="178" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1606299924967">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1858" y="178" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1792.25.1920.1055/57.25.1735.1095@1792.25.1920.1055" timestamp="1606299924967" />
+    <state x="119" y="184" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/59.25.1733.1095@59.25.1733.1095" timestamp="1606294673126" />
+    <state x="305" y="280" key="#com.intellij.ide.util.MemberChooser" timestamp="1606297852983">
+      <screen x="59" y="25" width="1733" height="1095" />
+    </state>
+    <state x="305" y="280" key="#com.intellij.ide.util.MemberChooser/59.25.1733.1095@59.25.1733.1095" timestamp="1606297852983" />
+    <state width="1689" height="282" key="GridCell.Tab.0.bottom" timestamp="1606300474073">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/1792.25.1920.1055/57.25.1735.1095@1792.25.1920.1055" timestamp="1606300422364" />
+    <state width="1689" height="282" key="GridCell.Tab.0.bottom/1792.25.1920.1055/57.25.1735.1095@57.25.1735.1095" timestamp="1606300474073" />
+    <state width="823" height="282" key="GridCell.Tab.0.bottom/59.25.1733.1095@59.25.1733.1095" timestamp="1606293898220" />
+    <state width="1689" height="282" key="GridCell.Tab.0.center" timestamp="1606300474073">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/1792.25.1920.1055/57.25.1735.1095@1792.25.1920.1055" timestamp="1606300422363" />
+    <state width="1689" height="282" key="GridCell.Tab.0.center/1792.25.1920.1055/57.25.1735.1095@57.25.1735.1095" timestamp="1606300474073" />
+    <state width="823" height="282" key="GridCell.Tab.0.center/59.25.1733.1095@59.25.1733.1095" timestamp="1606293898220" />
+    <state width="1689" height="282" key="GridCell.Tab.0.left" timestamp="1606300474072">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/1792.25.1920.1055/57.25.1735.1095@1792.25.1920.1055" timestamp="1606300422362" />
+    <state width="1689" height="282" key="GridCell.Tab.0.left/1792.25.1920.1055/57.25.1735.1095@57.25.1735.1095" timestamp="1606300474072" />
+    <state width="823" height="282" key="GridCell.Tab.0.left/59.25.1733.1095@59.25.1733.1095" timestamp="1606293898219" />
+    <state width="1689" height="282" key="GridCell.Tab.0.right" timestamp="1606300474073">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/1792.25.1920.1055/57.25.1735.1095@1792.25.1920.1055" timestamp="1606300422363" />
+    <state width="1689" height="282" key="GridCell.Tab.0.right/1792.25.1920.1055/57.25.1735.1095@57.25.1735.1095" timestamp="1606300474073" />
+    <state width="823" height="282" key="GridCell.Tab.0.right/59.25.1733.1095@59.25.1733.1095" timestamp="1606293898220" />
+    <state x="413" y="151" key="SettingsEditor" timestamp="1606293107435">
+      <screen x="59" y="25" width="1733" height="1095" />
+    </state>
+    <state x="413" y="151" key="SettingsEditor/59.25.1733.1095@59.25.1733.1095" timestamp="1606293107435" />
+    <state x="157" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1606293190454">
+      <screen x="59" y="25" width="1733" height="1095" />
+    </state>
+    <state x="157" y="269" width="670" height="676" key="search.everywhere.popup/59.25.1733.1095@59.25.1733.1095" timestamp="1606293190454" />
+  </component>
+</project>
